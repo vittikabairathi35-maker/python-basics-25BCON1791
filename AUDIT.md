@@ -21,5 +21,8 @@
 | Commit | My message | AI message | Which is clearer, and why? |
 |---|---|---|---|
 | Factorial program | feat: add factorial Python program | feat: add factorial Python program | Both messages are equally clear because they identify the addition of the factorial Python program. |
-| Fibonacci program | feat: implement Fibonacci sequence | feat: add Fibonacci Python program | My message is clearer about the actual functionality because it describes implementing the Fibonacci sequence. |
-| Struct program | feat: create student structure | feat: add Python struct program | The AI message is clearer about the file/program being added, while my message describes the purpose more generally. |
+| Fibonacci program | feat: implement Fibonacci sequence | feat: add Fibonacci Python program | My message is clearer about the functionality because it describes implementing the Fibonacci sequence. |
+| Struct program | feat: create student structure | feat: add Python struct program | The AI message is clearer about the program being added, while my message describes the purpose more generally. |
+| Sphere area program | feat: add sphere area program | feat: add sphere surface area program | The AI message is slightly more specific because it uses the full term "surface area." |
+| Arithmetic operations program | feat: add arithmetic operations | feat: add arithmetic operations program | The AI message is slightly more explicit because it identifies the change as adding a program. |
+| Greater number program | feat: add greater number program | feat: add greater number comparison | The AI message describes the purpose of the program more specifically: comparing two numbers. |

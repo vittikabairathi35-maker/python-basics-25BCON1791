@@ -15,6 +15,16 @@
 | No external dependencies are required. | Yes | The six programs use Python built-in features and do not import external packages. |
 | The run commands match the files in the repository. | Yes | All six filenames in the run commands match the files present in the repository. |
 | Author is Vittika Bairathi. | Yes | The README identifies Vittika Bairathi as the author. |
+| The repository objective is to practice fundamental Python concepts. | Yes | The six programs demonstrate arithmetic, loops, conditional statements, dictionaries, and basic input/output. |
+| The README provides Python installation instructions. | Yes | The setup section links to the official Python downloads page and explains how to verify installation using python --version. |
+| The repository can be downloaded as a ZIP file. | Yes | The setup section directs users to GitHub's Code menu and Download ZIP option. |
+| The README explains how to run all six programs. | Yes | The setup section lists Python commands matching all six source filenames, including quotes around struct program.py. |
+| Python 3 is required. | Yes | The programs use standard Python 3 syntax, and the README specifies Python 3 as the requirement. |
+| No additional Python packages are required. | Yes | None of the six programs imports third-party libraries. |
+| Internet access is not required to execute the downloaded programs. | Yes | The programs use local calculations and input/output without network requests. |
+| The repository creator is Vittika Bairathi. | Yes | The README identifies Vittika Bairathi as creator, and the GitHub repository is under the associated account. |
+| The README auditor is Vittika Bairathi. | Yes | The README names Vittika Bairathi as auditor and AUDIT.md contains the documented review. |
+| The audit findings are documented in AUDIT.md. | Yes | AUDIT.md contains the README Claim Audit and Commit Message Comparison sections. |
 
 ## Commit Message Comparison
 

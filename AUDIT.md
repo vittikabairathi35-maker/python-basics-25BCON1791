@@ -35,3 +35,24 @@
 | Sphere area program | feat: add sphere area program | feat: add sphere surface area program | The AI message is slightly more specific because it uses the full term "surface area." |
 | Arithmetic operations program | feat: add arithmetic operations | feat: add arithmetic operations program | The AI message is slightly more explicit because it identifies the change as adding a program. |
 | Greater number program | feat: add greater number program | feat: add greater number comparison | The AI message describes the purpose of the program more specifically: comparing two numbers. |
+
+## Peer Repository Review
+
+**Reviewed by:** Janhavi Verma  
+**Roll Number:** 25BON1774  
+**Repository Reviewed:** python-basics-25BCON1791
+
+### 1. Repository Understanding
+The repository contains six Python programs: three classwork programs and three homework programs. The programs demonstrate fundamental Python programming concepts.
+
+### 2. README Verification
+The README documents all six Python programs and provides instructions for running them.
+
+### 3. Commit Message Review
+The commit messages are meaningful and generally follow the required format. They clearly describe the changes made.
+
+### 4. Suggested Improvement
+The README could organize the three classwork programs and three homework programs under separate headings for better clarity.
+
+### 5. Overall Feedback
+The repository is well-organized, and the documentation is clear and easy to understand.

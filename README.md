@@ -14,22 +14,28 @@ The repository aims to:
 
 ## 2. Programs Included
 
-### 1. factorial.py
-Calculates the factorial of a number using a `for` loop.
+This repository contains six Python programs: three classwork programs (CW) and three homework programs (HW).
 
-### 2. fibonacci.py
+### Classwork Programs (CW)
+
+**1. factorial.py**  
+Calculates the factorial of a number using a for loop.
+
+**2. fibonacci.py**  
 Generates Fibonacci numbers using a loop and variable updates.
 
-### 3. struct program.py
+**3. struct program.py**  
 Stores student information in a Python dictionary and displays the student's name, roll number, and marks.
 
-### 4. sphere_area.py
+### Homework Programs (HW)
+
+**4. sphere_area.py**  
 Calculates the surface area of a sphere using a radius entered by the user.
 
-### 5. arithmetic_operations.py
+**5. arithmetic_operations.py**  
 Accepts two numbers and performs addition, subtraction, multiplication, and division. It also handles division by zero.
 
-### 6. greater_number.py
+**6. greater_number.py**  
 Compares two numbers and displays the greater number or states that both numbers are equal.
 
 ## 3. Installation and Setup Steps
